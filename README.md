@@ -1,3 +1,4 @@
+$ terraform init
 variable "vpc_cidr_block" {
   description = "CIDR bloku VPC"
 }
