@@ -1,5 +1,5 @@
 # IaaC
-Zaliczenie_35138
+#Zaliczenie_35138
 variable "vpc_cidr_block" {
   description = "CIDR bloku VPC"
 }
